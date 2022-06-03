@@ -51,7 +51,7 @@ Cr4ck multi brute force
 $ pkg update && pkg upgrade
 $ pkg install python && pkg install python2
 $ pkg install git
-$ git clone https://github.com/AMIRXPLOID/Cr4ck
+$ git clone https://github.com/AMIRXPLOID/Cr4ck2
 ```
 ### And Cr4ck this script
 ```bash
