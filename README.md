@@ -62,7 +62,7 @@ $ python Cr4ck.py
 
 ### Screenshot
 * Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/AMIRXPLOID/Cr4ck/blob/main/img/IMG_20210304_060211.jpg" />
+<img src="https://c.top4top.io/p_2345f9xj80.jpg" />
 
 ##### MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Yayan-XD) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/moch_xd)
