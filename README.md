@@ -55,9 +55,9 @@ $ git clone https://github.com/AMIRXPLOID/Cr4ck2
 ```
 ### And Cr4ck this script
 ```bash
-$ cd Cr4ck
+$ cd Cr4ck2
 $ bash setup.sh
-$ python Cr4ck.py
+$ python Cr4ck2.py
 ```
 
 ### Screenshot
