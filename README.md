@@ -57,7 +57,7 @@ $ git clone https://github.com/AMIRXPLOID/ngecrack
 ```bash
 $ cd ngecreck
 $ bash setup.sh
-$ python cr4ck.py
+$ python cr4ck2.py
 ```
 
 ### Screenshot
