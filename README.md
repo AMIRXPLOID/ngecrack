@@ -51,13 +51,13 @@ Cr4ck multi brute force
 $ pkg update && pkg upgrade
 $ pkg install python && pkg install python2
 $ pkg install git
-$ git clone https://github.com/AMIRXPLOID/Cr4ck2
+$ git clone https://github.com/AMIRXPLOID/ngecrack
 ```
 ### And Cr4ck this script
 ```bash
-$ cd Cr4ck2
+$ cd ngecreck
 $ bash setup.sh
-$ python Cr4ck2.py
+$ python cr4ck.py
 ```
 
 ### Screenshot
